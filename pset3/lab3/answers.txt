@@ -1,0 +1,10 @@
+sort1 uses: Bubble Sort
+
+How do you know?: It completes the sorted50000.txt file first regarding the other two files.
+sort2 uses: Merge Sort
+
+How do you know?: It finishes the sorted50000.txt at the 2nd place.
+sort3 uses: Selection Sort
+
+How do you know?: It finishes the sorted50000.txt at the last place and it took 9 seconds to
+complete it because it has to read all the numbers wether they are sorted or not.
